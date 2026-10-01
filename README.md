@@ -13,20 +13,10 @@ Building robust RESTful APIs and turning business workflows into clean, maintain
   <a href="mailto:romany.zaghloul.dev@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Romany-Zaghloul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Romany-Zaghloul&style=flat-square&color=4C8BF5&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
-
----
-
-## 💡 In Plain English
-
-I build the backend part of applications: the APIs, business logic, databases, authentication, and reliability features that make products work behind the scenes.
 
 ---
 
@@ -34,7 +24,7 @@ I build the backend part of applications: the APIs, business logic, databases, a
 
 I'm a .NET Backend Developer focused on building RESTful APIs with C# and ASP.NET Core.
 
-My Business Information Systems background helps me start with the business workflow, understand its rules and data, then translate it into a practical and maintainable technical solution.
+My approach starts with the business workflow: understanding its rules and data, then translating them into practical backend solutions. My Business Information Systems background helps me connect business requirements with backend implementation.
 
 I care about clean architecture, readable code, validation, security, reliable data handling, and backend systems that are easier to maintain as they grow.
 
@@ -45,16 +35,16 @@ I care about clean architecture, readable code, validation, security, reliable d
 ### Backend & Frameworks
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/RESTful%20Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square)
+![RESTful Web API](https://img.shields.io/badge/RESTful%20Web%20API-512BD4?style=flat-square)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square)
 
 ### Architecture & Design
 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-34495E?style=flat-square)
 ![CQRS](https://img.shields.io/badge/CQRS-34495E?style=flat-square)
-![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID%20Principles-34495E?style=flat-square)
 ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-34495E?style=flat-square)
 ![Unit of Work](https://img.shields.io/badge/Unit%20of%20Work-34495E?style=flat-square)
@@ -64,21 +54,21 @@ I care about clean architecture, readable code, validation, security, reliable d
 ![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![In-Memory Caching](https://img.shields.io/badge/In--Memory%20Caching-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![In-Memory Caching](https://img.shields.io/badge/In--Memory%20Caching-512BD4?style=flat-square)
 
 ### Security & Reliability
 
-![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET%20Core%20Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET%20Core%20Identity-512BD4?style=flat-square)
 ![JWT Bearer](https://img.shields.io/badge/JWT%20Bearer-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Refresh Tokens](https://img.shields.io/badge/Refresh%20Tokens-34495E?style=flat-square)
-![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=flat-square)
 ![Serilog](https://img.shields.io/badge/Serilog-34495E?style=flat-square)
 
 ### Tools & Workflow
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-512BD4?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -86,22 +76,11 @@ I care about clean architecture, readable code, validation, security, reliable d
 
 ---
 
-## 🔧 What I Focus On
-
-- **API Development** — Designing clear RESTful APIs with ASP.NET Core.
-- **Backend Architecture** — Applying Clean Architecture, CQRS, MediatR, SOLID principles, and separation of concerns.
-- **Data Layer** — Working with SQL Server, MongoDB, Redis, Entity Framework Core, and LINQ.
-- **Security & Reliability** — Implementing Identity, JWT Bearer authentication, refresh tokens, validation, and structured logging.
-- **Background Processing** — Using Hangfire and cron expressions for scheduled backend jobs.
-- **Development Environment** — Using Docker and Docker Compose to build consistent local environments.
-
----
-
 ## 🎓 Background
 
 **B.Sc. in Business Information Systems (BIS)**  
 Faculty of Commerce and Business Administration, Helwan University  
-Cairo, Egypt · 2019 – 2023
+Cairo, Egypt
 
 ---
 
@@ -115,12 +94,7 @@ Cairo, Egypt · 2019 – 2023
 
 <div align="center">
 
-### Let’s build something solid. 🚀
+### Let’s build something solid 🚀
 
-<a href="https://www.linkedin.com/in/romany-zaghloul-dev">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="mailto:romany.zaghloul.dev@outlook.com">Email</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Romany-Zaghloul">GitHub</a>
 
 </div>
