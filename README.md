@@ -1,102 +1,162 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+# Hi, I'm Romany Zaghloul 👋
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+### .NET Backend Developer
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+I build robust RESTful APIs and backend systems with a focus on clean architecture, maintainability, security, and reliable business workflows.
 
-</details>
+<p>
+  <a href="mailto:romany.zaghloul.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/romany-zaghloul-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Romany-Zaghloul">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Romany-Zaghloul&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
-<hr></hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+## About Me
 
-```dart
-// tools_I_use organized
+- 💻 .NET Backend Developer focused on building RESTful APIs.
+- 🧩 Interested in translating business workflows into scalable technical solutions.
+- 🏗️ I care about clean code, clear architecture, and maintainable backend systems.
+- 🔐 Focused on authentication, authorization, validation, logging, and API reliability.
+- 🎓 B.Sc. in Business Information Systems from Helwan University.
+- 📍 Based in Cairo, Egypt.
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+---
+
+## Technical Stack
+
+### Backend Development
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
+
+### Architecture and Design
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=flat)
+![CQRS](https://img.shields.io/badge/CQRS-34495E?style=flat)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-2C3E50?style=flat)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-34495E?style=flat)
+![Unit of Work](https://img.shields.io/badge/Unit%20of%20Work-34495E?style=flat)
+
+### Databases and Caching
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![In-Memory Cache](https://img.shields.io/badge/In--Memory%20Caching-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+### Security and Reliability
+
+![ASP.NET Core Identity](https://img.shields.io/badge/ASP.NET%20Core%20Identity-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Bearer-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Refresh Tokens](https://img.shields.io/badge/Refresh%20Tokens-2C3E50?style=flat)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Serilog](https://img.shields.io/badge/Serilog-2C3E50?style=flat)
+
+### Tools and Workflow
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+## What I Focus On
+
+```text
+Backend Development
+├── RESTful API Design
+├── Business Workflow Modeling
+├── Clean Architecture
+├── CQRS and Mediator Pattern
+├── Database Design and Data Access
+├── Authentication and Authorization
+├── Input Validation and Error Handling
+├── Logging and Observability
+├── Caching Strategies
+├── Background Jobs
+└── Containerized Development
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+---
 
-<div align="center" >
-<a  href="https://github.com/SP-XD">
+## Featured Project
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+### Mizan — Payment Reconciliation & Settlement Engine
 
-</a>
+A backend-focused system designed to model payment reconciliation and settlement workflows.
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+The project focuses on:
 
-</details>
-  
-<hr></hr>
+- Processing payment-related events.
+- Handling duplicate and invalid events safely.
+- Reconciling payment records with gateway events.
+- Maintaining consistent financial records.
+- Applying clean architectural boundaries.
+- Using CQRS to separate commands and queries.
+- Designing reliable background settlement workflows.
+- Handling failure scenarios and operational edge cases.
 
-**Code Cycle**<br>
+**Core technologies:**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+`C#` · `ASP.NET Core Web API` · `Entity Framework Core` · `SQL Server` · `MongoDB` · `Redis` · `CQRS` · `MediatR` · `Clean Architecture` · `Docker`
 
+> The project is built to demonstrate backend engineering principles through correctness, maintainability, and reliable business logic—not just a list of technologies.
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+---
 
-</div>
+## Engineering Principles
 
+- Keep business rules independent from infrastructure concerns.
+- Prefer clear and maintainable code over unnecessary complexity.
+- Design APIs around real business workflows.
+- Validate input at the application boundary.
+- Protect authentication and authorization flows.
+- Make background jobs observable and reliable.
+- Use caching where it provides a clear benefit.
+- Treat failure handling as part of the system design.
+- Continuously improve through learning and practical projects.
+
+---
+
+## Currently Improving
+
+- Advanced backend architecture with .NET.
+- Reliable payment and reconciliation workflows.
+- Database design and performance.
+- Distributed caching and background processing.
+- Testing and production-oriented API design.
+
+---
+
+## Let's Connect
+
+If you are interested in .NET backend development, API design, software architecture, or business-focused systems, feel free to connect with me.
+
+<p align="center">
+  <a href="mailto:romany.zaghloul.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/romany-zaghloul-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
