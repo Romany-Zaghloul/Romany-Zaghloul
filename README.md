@@ -2,8 +2,6 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="42%" />
 
-# Hi, I'm Romany Zaghloul 👋
-
 ### .NET Backend Developer
 
 Building robust RESTful APIs and turning business workflows into clean, maintainable backend solutions.
