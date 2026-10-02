@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="42%" />
+<img src="./assets/romany-zaghloul.gif" alt="Romany Zaghloul" width="58%" />
 
 ### .NET Backend Developer
 
