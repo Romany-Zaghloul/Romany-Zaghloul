@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/aberration-romany-zaghloul.svg" alt="Romany Zaghloul" width="70%" />
+<img src="./assets/romany-zaghloul.svg" alt="Romany Zaghloul" width="70%" />
 
 ### .NET Backend Developer
 
