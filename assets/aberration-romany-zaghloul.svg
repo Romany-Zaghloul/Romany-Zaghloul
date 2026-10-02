@@ -1,229 +1,230 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 260" role="img" aria-label="Glitch reveal for Romany Zaghloul">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 260" role="img" aria-label="Romany Zaghloul">
   <defs>
     <pattern id="abr-scan" width="1" height="5" patternUnits="userSpaceOnUse">
-      <rect width="1" height="1" fill="#a5f3fc" opacity="0.045" />
+      <rect width="1" height="1" fill="#22D3EE" opacity="0.035"/>
     </pattern>
 
     <clipPath id="abr-s1">
-      <rect x="114" y="84" width="1032" height="16" />
+      <rect x="40" y="65" width="1180" height="45"/>
     </clipPath>
 
     <clipPath id="abr-s2">
-      <rect x="114" y="122" width="1032" height="11" />
+      <rect x="40" y="125" width="1180" height="45"/>
     </clipPath>
 
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;700&amp;family=Orbitron:wght@400;700;900&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;display=swap');
 
-      /* Cyan chromatic aberration */
       @keyframes abr-cy {
-        0%, 70%, 100% {
-          transform: translate(0, 0);
-          opacity: 0;
+        0%,70%,100% {
+          transform:translate(0,0);
+          opacity:0;
         }
         72% {
-          transform: translate(-18px, 2px);
-          opacity: 0.85;
+          transform:translate(-18px,2px);
+          opacity:.85;
         }
         75% {
-          transform: translate(12px, -2px);
-          opacity: 0.8;
+          transform:translate(12px,-2px);
+          opacity:.8;
         }
         78% {
-          transform: translate(-7px, 1px);
-          opacity: 0.7;
+          transform:translate(-7px,1px);
+          opacity:.7;
         }
         81% {
-          transform: translate(3px, 0);
-          opacity: 0.45;
+          transform:translate(3px,0);
+          opacity:.45;
         }
         84% {
-          transform: translate(0, 0);
-          opacity: 0;
+          transform:translate(0,0);
+          opacity:0;
         }
       }
 
-      /* Magenta chromatic aberration */
       @keyframes abr-mg {
-        0%, 70%, 100% {
-          transform: translate(0, 0);
-          opacity: 0;
+        0%,70%,100% {
+          transform:translate(0,0);
+          opacity:0;
         }
         72% {
-          transform: translate(18px, -2px);
-          opacity: 0.85;
+          transform:translate(18px,-2px);
+          opacity:.85;
         }
         75% {
-          transform: translate(-12px, 2px);
-          opacity: 0.8;
+          transform:translate(-12px,2px);
+          opacity:.8;
         }
         78% {
-          transform: translate(7px, -1px);
-          opacity: 0.7;
+          transform:translate(7px,-1px);
+          opacity:.7;
         }
         81% {
-          transform: translate(-3px, 0);
-          opacity: 0.45;
+          transform:translate(-3px,0);
+          opacity:.45;
         }
         84% {
-          transform: translate(0, 0);
-          opacity: 0;
+          transform:translate(0,0);
+          opacity:0;
         }
       }
 
-      .abr-cy {
-        animation: abr-cy 3.2s ease-in-out infinite;
-      }
-
-      .abr-mg {
-        animation: abr-mg 3.2s ease-in-out infinite;
-      }
-
-      /* Main text stays visible */
-      .abr-main {
-        opacity: 1;
-      }
-
-      /* Glitch slices */
       @keyframes abr-slice1 {
-        0%, 70%, 100% {
-          transform: translateX(0);
-          opacity: 0;
+        0%,70%,100% {
+          transform:translateX(0);
+          opacity:0;
         }
         72% {
-          transform: translateX(24px);
-          opacity: 0.9;
+          transform:translateX(24px);
+          opacity:.9;
         }
         75% {
-          transform: translateX(-14px);
-          opacity: 0.8;
+          transform:translateX(-14px);
+          opacity:.8;
         }
         78% {
-          transform: translateX(6px);
-          opacity: 0.6;
+          transform:translateX(6px);
+          opacity:.6;
         }
         82% {
-          transform: translateX(0);
-          opacity: 0;
+          transform:translateX(0);
+          opacity:0;
         }
       }
 
       @keyframes abr-slice2 {
-        0%, 70%, 100% {
-          transform: translateX(0);
-          opacity: 0;
+        0%,70%,100% {
+          transform:translateX(0);
+          opacity:0;
         }
         72% {
-          transform: translateX(-26px);
-          opacity: 0.9;
+          transform:translateX(-26px);
+          opacity:.9;
         }
         75% {
-          transform: translateX(16px);
-          opacity: 0.8;
+          transform:translateX(16px);
+          opacity:.8;
         }
         78% {
-          transform: translateX(-7px);
-          opacity: 0.6;
+          transform:translateX(-7px);
+          opacity:.6;
         }
         82% {
-          transform: translateX(0);
-          opacity: 0;
+          transform:translateX(0);
+          opacity:0;
         }
+      }
+
+      .abr-cy,
+      .abr-mg,
+      .abr-slice1,
+      .abr-slice2 {
+        animation-duration:4.2s;
+        animation-iteration-count:infinite;
+      }
+
+      .abr-cy {
+        animation-name:abr-cy;
+        animation-timing-function:ease-in-out;
+      }
+
+      .abr-mg {
+        animation-name:abr-mg;
+        animation-timing-function:ease-in-out;
+      }
+
+      .abr-slice1,
+      .abr-slice2 {
+        animation-timing-function:steps(4,end);
       }
 
       .abr-slice1 {
-        animation: abr-slice1 3.2s steps(4, end) infinite;
+        animation-name:abr-slice1;
       }
 
       .abr-slice2 {
-        animation: abr-slice2 3.2s steps(4, end) infinite;
+        animation-name:abr-slice2;
       }
 
-      /* Subtle scanline flicker */
       @keyframes abr-flicker {
-        0%, 100% {
-          opacity: 0.35;
-        }
-        50% {
-          opacity: 0.12;
-        }
+        0%,100% { opacity:.30; }
+        50% { opacity:.10; }
       }
 
       .abr-scanline {
-        animation: abr-flicker 3s steps(2, end) infinite;
+        animation:abr-flicker 4.2s steps(2,end) infinite;
       }
     </style>
   </defs>
 
-  <!-- Main text -->
+  <!-- Main -->
   <text
-    class="abr-main"
     x="630"
-    y="150"
+    y="158"
     text-anchor="middle"
-    font-size="125"
+    font-size="145"
     font-family="'Orbitron','Rajdhani','Segoe UI',sans-serif"
     font-weight="700"
-    letter-spacing="2"
-    fill="#94A3B8"
+    letter-spacing="1"
+    fill="#1E3A5F"
   >Romany Zaghloul</text>
 
-  <!-- Cyan aberration -->
+  <!-- Cyan -->
   <text
     class="abr-cy"
     x="630"
-    y="150"
+    y="158"
     text-anchor="middle"
-    font-size="125"
+    font-size="145"
     font-family="'Orbitron','Rajdhani','Segoe UI',sans-serif"
     font-weight="700"
-    letter-spacing="2"
-    fill="#22d3ee"
+    letter-spacing="1"
+    fill="#22D3EE"
   >Romany Zaghloul</text>
 
-  <!-- Magenta aberration -->
+  <!-- Violet -->
   <text
     class="abr-mg"
     x="630"
-    y="150"
+    y="158"
     text-anchor="middle"
-    font-size="125"
+    font-size="145"
     font-family="'Orbitron','Rajdhani','Segoe UI',sans-serif"
     font-weight="700"
-    letter-spacing="2"
-    fill="#e879f9"
+    letter-spacing="1"
+    fill="#A78BFA"
   >Romany Zaghloul</text>
 
-  <!-- Glitch slices -->
+  <!-- Glitch slice 1 -->
   <g clip-path="url(#abr-s1)">
     <text
       class="abr-slice1"
       x="630"
-      y="150"
+      y="158"
       text-anchor="middle"
-      font-size="125"
+      font-size="145"
       font-family="'Orbitron','Rajdhani','Segoe UI',sans-serif"
       font-weight="700"
-      letter-spacing="2"
-      fill="#94A3B8"
+      letter-spacing="1"
+      fill="#1E3A5F"
     >Romany Zaghloul</text>
   </g>
 
+  <!-- Glitch slice 2 -->
   <g clip-path="url(#abr-s2)">
     <text
       class="abr-slice2"
       x="630"
-      y="150"
+      y="158"
       text-anchor="middle"
-      font-size="125"
+      font-size="145"
       font-family="'Orbitron','Rajdhani','Segoe UI',sans-serif"
       font-weight="700"
-      letter-spacing="2"
-      fill="#94A3B8"
+      letter-spacing="1"
+      fill="#1E3A5F"
     >Romany Zaghloul</text>
   </g>
 
-  <!-- Scanlines -->
   <rect
     class="abr-scanline"
     width="1260"
