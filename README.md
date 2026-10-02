@@ -7,12 +7,8 @@
 Building robust RESTful APIs and turning business workflows into clean, maintainable backend solutions.
 
 <p>
-  <a href="https://www.linkedin.com/in/romany-zaghloul-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:romany.zaghloul.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/romany-zaghloul-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:romany.zaghloul.dev@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 </p>
 
 
